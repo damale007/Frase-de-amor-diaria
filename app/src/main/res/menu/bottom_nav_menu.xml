@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuChistes"
+        android:icon="@drawable/menu_chistes"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/menuFavoritos"
+        android:icon="@drawable/menu_favoritos"
+        android:title="@string/title_favoritos" />
+
+    <item
+        android:id="@+id/menuOtrasApps"
+        android:icon="@drawable/menu_otras_apps"
+        android:title="@string/title_otras_apps" />
+</menu>

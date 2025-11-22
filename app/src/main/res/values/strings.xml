@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Frase de Amor diario</string>
+    <string name="amorFavoritos">Mis frases favoritas</string>
+    <string name="title_activity_main2">Frase de amor diaria</string>
+
+    <!-- Menú  -->
+    <string name="title_home">Frases</string>
+    <string name="title_favoritos">Favoritos</string>
+    <string name="title_activity_main">Frase de amor diaria</string>
+    <string name="title_otras_apps">Otras Apps</string>
+
+    <!-- Chistes  -->
+    <string name="botonAnterior">Ant.</string>
+    <string name="botonSiguiente">Sig.</string>
+    <string name="chisteSuperior">Cada día una nueva frase</string>
+
+    <!-- Favoritos  -->
+    <string name="noFavoritos">No hay ninguna frase en favoritos</string>
+
+    <!-- Otras Apps -->
+    <string name="titulo_otras_apps">Otras Apps del Autor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
